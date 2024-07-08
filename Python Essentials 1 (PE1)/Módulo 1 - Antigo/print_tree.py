@@ -1,0 +1,12 @@
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
+print(" " * 3, "*", "\n", " ", "*", "*", sep=" ")
+print("*" * 3, "", "*" * 3, sep=" " * 2)
+print("  ", "*" * 5, sep="")
