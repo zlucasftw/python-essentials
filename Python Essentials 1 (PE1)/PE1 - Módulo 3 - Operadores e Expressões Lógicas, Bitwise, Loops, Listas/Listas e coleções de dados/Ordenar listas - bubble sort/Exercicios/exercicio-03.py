@@ -1,0 +1,15 @@
+# Exercício 3
+
+# Qual é o output do seguinte snippet?
+
+a = "A"
+b = "B"
+c = "C"
+d = " "
+
+lst = [a, b, c, d]
+lst.reverse()
+
+print(lst)
+
+# Resposta: [' ', 'C', 'B', 'A']
