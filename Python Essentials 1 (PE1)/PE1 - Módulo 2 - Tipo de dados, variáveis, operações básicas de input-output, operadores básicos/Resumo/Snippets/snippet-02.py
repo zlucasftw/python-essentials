@@ -1,4 +1,4 @@
-# Exemplo de solicitação de finalização de execução
+# Exemplos de solicitação de finalização de execução
 
 name = input("Enter your name: ")
 print("Hello, " + name + ". Nice to meet you!")

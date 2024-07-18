@@ -1,6 +1,6 @@
 # Exemplos - Controle de Loop em Python: break e continue
 
-# Exemplo de encontrar o maior número
+# Exemplos de encontrar o maior número
 
 largest_number = -999999999
 counter = 0
