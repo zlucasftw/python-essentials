@@ -3,7 +3,8 @@
 # Como usar um dicionário
 
 # Para expressões longas, é boa prática mantê-las verticalmente alinhada,
-# tornando o código mais legível e fácil de programar
+# tornando o código mais legível e fácil de programar.
+# São chamados de hanging indents ou indentações penduradas.
 
 # Example 1:
 dictionary = {
