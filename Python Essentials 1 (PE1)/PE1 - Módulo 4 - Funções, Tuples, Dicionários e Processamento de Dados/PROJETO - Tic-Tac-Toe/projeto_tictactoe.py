@@ -56,7 +56,7 @@ def make_list_of_free_field(board):
     for row in range(len(board)):
         for column in range(row):
             if 'O' in board[row][column] or 'X' in board[row][column]:
-            print(board[row])
+                print(board[row])
 
 
 
