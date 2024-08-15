@@ -1,4 +1,5 @@
 # Como utilizar o pip: programa de teste simples
+
 # Utilizando pygame
 
 import pygame
