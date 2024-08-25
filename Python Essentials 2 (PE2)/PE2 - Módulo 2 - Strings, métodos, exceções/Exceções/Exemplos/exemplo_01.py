@@ -1,3 +1,7 @@
+# Erros - o pão diário do programador
+
+# Erros, fracassos e outras pragas
+
 import math
 
 x = float(input("Enter x: "))
